@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NitinRana01125532553
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning html, css, js, python
-- 💞️ I’m looking to collaborate on python an js projects
+- 👋 Hi, I’m Ni
+- 👀 I’m interested in Web and new cs technologies
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on WebApp projects
 - 📫 How to reach me https://twitter.com/Gandalf62644788
 - 
 
