@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ni
 - 👀 I’m interested in Web and new cs technologies
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on WebApp projects
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me https://twitter.com/Gandalf62644788
 - 
 
