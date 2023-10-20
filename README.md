@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ni
-- 👀 I’m interested in Web and new cs technologies
+- 👀 I’m interested in Web, Blockchain and DevOps
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me https://twitter.com/Gandalf62644788
