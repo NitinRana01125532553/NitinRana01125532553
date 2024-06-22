@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ni
 - 👀 I’m interested in Web, Blockchain and DevOps
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on Web projects
-- 📫 How to reach me https://twitter.com/Gandalf62644788
+- 🌱 I’m currently learning Blockchain
+- 💞️ I’m looking to collaborate on FUll Stack projects
+- 📫 How to reach me twitter: https://twitter.com/Gandalf62644788, phone/text: 9560335724
 - 
 
 <!---
